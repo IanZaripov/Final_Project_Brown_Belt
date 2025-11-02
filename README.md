@@ -1,7 +1,7 @@
 # Transport Route Planner
 [![C++](https://img.shields.io/badge/C++-17/20-blue.svg)](https://isocpp.org/)
 [![Stepik](https://img.shields.io/badge/Stepik-Course-orange)](https://stepik.org/lesson/288032/)
-Учебный проект по курсу Stepik
+Учебный проект по курсу Stepik: Основы разработки на С++: Коричневый пояс, финальная задача
 Построения оптимальных маршрутов в транспортной сети с использованием графовых алгоритмов.
 ## Функциональность
 
